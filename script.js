@@ -16,3 +16,7 @@ document.addEventListener('DOMContentLoaded', function () {
         productNameSelect.appendChild(option);
     });
 });
+
+
+
+
