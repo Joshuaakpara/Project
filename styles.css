@@ -1,0 +1,32 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #FFFFFF;
+    color: #000;
+    margin: 0;
+    padding: 0;
+}
+
+header, footer {
+    background-color: #2E8B57;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 1em 0;
+}
+
+h1, h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+main {
+    padding: 1em;
+}
+
+section {
+    margin-bottom: 2em;
+}
+
+.color-sample {
+    padding: 1em;
+    margin-bottom: 1em;
+    border: 1px solid #000;
+}
